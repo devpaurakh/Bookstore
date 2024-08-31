@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: backend
+    buildCommand: "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
+    startCommand: "NODE_ENV=production node Backend/server.js"
+    env:
+      - key: NODE_ENV
+        value: "production"
+    git:
+      branch: main
+      repo: https://github.com/your-repo/your-project.git
