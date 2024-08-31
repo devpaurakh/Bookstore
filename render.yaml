@@ -8,4 +8,4 @@ services:
         value: "production"
     git:
       branch: main
-      repo: https://github.com/your-repo/your-project.git
+      repo: https://github.com/devpaurakh/Bookstore.git
