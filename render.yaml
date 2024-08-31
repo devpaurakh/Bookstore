@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: backend
+    name: frontend
     buildCommand: "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
     startCommand: "NODE_ENV=production node Backend/server.js"
     env:
