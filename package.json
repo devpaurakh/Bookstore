@@ -1,31 +1,21 @@
 {
-<<<<<<< HEAD
-  "name": "backend",
-=======
+
   "name": "electronic",
->>>>>>> 54f3795 (first commit)
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-=======
     "start": "Backend/server.js",
     "dev": "nodemon Backend/server.js"
->>>>>>> 54f3795 (first commit)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-=======
+
     "dotenv": "^16.4.5",
->>>>>>> 54f3795 (first commit)
     "express": "^4.19.2",
     "mongodb": "^6.8.0",
     "mongoose": "^8.6.0"
