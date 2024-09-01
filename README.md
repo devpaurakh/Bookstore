@@ -1,11 +1,7 @@
 
-# Product Store
+## Product Store
 
 This is the basic CRUD web application based on MERN Stack.
-
-# ScreeenShoots
-
-
 
 ## Installation
 
