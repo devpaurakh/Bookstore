@@ -25,12 +25,9 @@ This will add all the required dependents and start the server 3000.
     
 ## Screenshots
 
-![App Screenshot](<img width="1440" alt="Screenshot 2024-09-01 at 7 13 23 AM" src="https://github.com/user-attachments/assets/d2fad012-c504-47f7-8deb-b14a7556c454">) 
+<img width="500" alt="Screenshot 2024-09-01 at 7 13 23 AM" src="https://github.com/user-attachments/assets/cb4a3abe-71bb-48c8-88dd-8f49e12fd252">
+<img width="500" alt="Screenshot 2024-09-01 at 7 13 32 AM" src="https://github.com/user-attachments/assets/9295d400-b9e4-4ca2-a16c-aab214a4f84c">
+<img width="500" alt="Screenshot 2024-09-01 at 7 13 43 AM" src="https://github.com/user-attachments/assets/68a18e85-8b6c-4e42-9d21-0f21214a953a">
 
-
-![App Screenshot](<img width="1440" alt="Screenshot 2024-09-01 at 7 13 32 AM" src="https://github.com/user-attachments/assets/38a83e95-5c08-48e1-a0b2-fc6f2b6bb1ef">) 
-
-
-![App Screenshot](<img width="1440" alt="Screenshot 2024-09-01 at 7 13 43 AM" src="https://github.com/user-attachments/assets/7d589eeb-1e60-4ec0-a1c8-345ce4c9cd68">)
 
 
