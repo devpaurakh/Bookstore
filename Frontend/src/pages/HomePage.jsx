@@ -16,7 +16,6 @@ const Homepage = () => {
     fetchProduct();
   }, [fetchProduct]);
 
-  console.log("products", products);
   return (
     <Container maxW="container.xl" py={12}>
       {" "}
